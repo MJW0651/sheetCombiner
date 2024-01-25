@@ -1,4 +1,4 @@
-# Gather and combine .xlsx and .csv files and combine them into a single worksheet/workbook
+# Gather and combine .xlsx and .csv files and combine them into a single worksheet/workbook.
 # Michael Woolcott
 
 import openpyxl
